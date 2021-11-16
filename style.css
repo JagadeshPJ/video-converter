@@ -1,0 +1,16 @@
+#whole{
+    background-color: #E3E3E3;
+    height:100vh;
+
+}
+#title{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: cursive;
+    color: rgb(219, 57, 16);
+
+}
+#txt{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
